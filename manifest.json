@@ -1,0 +1,1 @@
+{"name":"json-processor-mcp","version":"1.0.0","description":"JSON处理工具 - 格式化/验证/扁平化/查询/转换JSON数据","runtime":"python","entry":"entry.py","transport":"stdio"}
